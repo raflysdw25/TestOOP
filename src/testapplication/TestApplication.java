@@ -18,6 +18,7 @@ public class TestApplication {
         // TODO code application logic here
         System.out.println("Hellow World");
         System.out.println("My Name is Muhammad Rafly Sadewa");
+        System.out.println("Test Commit");
     }
     
 }
